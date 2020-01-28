@@ -1,0 +1,17 @@
+{
+  "name": "jrb/php-rouq",
+  "type": "library",
+  "authors": [
+    {
+      "name": "jrb",
+      "email": "jrb.youssef@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jrb\\": "src/"
+    }
+  }
+}
